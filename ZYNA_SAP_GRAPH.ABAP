@@ -1,4 +1,4 @@
-REPORT ZYN_DRAW1.
+REPORT ZYNA_SAP_GRAPH.
 
 DATA: BEGIN OF itab_data OCCURS 0,
 dataname(15),
