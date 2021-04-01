@@ -1,4 +1,5 @@
-REPORT ZYNA_SAP_GRAPH.
+REPORT ZYN_SAP_GRAPH.
+// Draw SAP Graph using ABAP Code
 
 DATA: BEGIN OF itab_data OCCURS 0,
 dataname(15),
