@@ -1,0 +1,16 @@
+TYPES:
+  BEGIN OF struc,
+    Major TYPE string,
+    Minor TYPE string,
+    Mini  TYPE string,
+    Micro TYPE string,
+  END OF struc.
+
+DATA THINKINGALOUD TYPE STANDARD TABLE OF struc.
+
+THINKINGALOUD = VALUE #( ( Major = 'qmacro.org SAP Community'  Minor = 'autodidactics'
+                           Mini = '(something missing)' Micro = 'Twitter3' ) ).
+
+ASSIGN COMPONENT 2 OF STRUCTURE THINKINGALOUD[ 1 ] TO FIELD-SYMBOL(<fs>).
+
+cl_demo_output=>display( THINKINGALOUD ).
