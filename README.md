@@ -1,4 +1,6 @@
-## SAP Community - Coffee Corner (My artical - contribution for thinking-aloud)
+## SAP Community - Coffee Corner <br>
+
+My Artical as ABAP code contribution for thinking-aloud repository:
 
 [My ABAP Code - Thinking Aloud Project by DJ Adams (qmacro)](https://answers.sap.com/articles/13341880/my-abap-code-thinking-aloud-dj-adams.html)
 
