@@ -4,6 +4,8 @@ My Artical as ABAP code contribution for thinking-aloud repository:
 
 [My ABAP Code - Thinking Aloud Project by DJ Adams (qmacro)](https://answers.sap.com/articles/13341880/my-abap-code-thinking-aloud-dj-adams.html)
 
+[my Python Code for qmacro Thinking Aloud issue #14](https://github.com/qmacro/thinking-aloud/issues/14)
+
 [qmacro thinking-aloud on Github](https://github.com/qmacro/thinking-aloud)
 
 
