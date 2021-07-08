@@ -1,3 +1,10 @@
+## My artical on SAP Community - Coffee Corner
+
+[My ABAP Code - Thinking Aloud Project by DJ Adams (qmacro)](https://answers.sap.com/articles/13341880/my-abap-code-thinking-aloud-dj-adams.html) SAP
+
+contribution to qmacro thinking-aloud on Github
+https://github.com/qmacro/thinking-aloud
+
 
 ### What is ABAP?
 ABAP (Advanced Business Application Programming)
