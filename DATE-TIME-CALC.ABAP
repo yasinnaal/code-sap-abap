@@ -36,4 +36,5 @@ CLASS demo IMPLEMENTATION.
 ENDCLASS.
 
 START-OF-SELECTION.
+
   demo=>main( ).
