@@ -1,7 +1,5 @@
 ## SAP ABAP
 
-### SAP Community - Coffee Corner <br>
-
 My ABAP code contribution on SAP Community - Coffee Corner for thinking-aloud repository:
 
 [My ABAP Code for Thinking Aloud Project by DJ Adams (qmacro)](https://answers.sap.com/articles/13341880/my-abap-code-thinking-aloud-dj-adams.html)
