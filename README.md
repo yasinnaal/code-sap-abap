@@ -1,7 +1,3 @@
----
-title: SAP ABAP
---- 
-
 ## SAP ABAP
 
 
