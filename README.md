@@ -4,11 +4,11 @@
 
 My ABAP code contribution on SAP Community - Coffee Corner for thinking-aloud repository:
 
-[My ABAP Code - Thinking Aloud Project by DJ Adams (qmacro)](https://answers.sap.com/articles/13341880/my-abap-code-thinking-aloud-dj-adams.html)
+[My ABAP Code for Thinking Aloud Project by DJ Adams (qmacro)](https://answers.sap.com/articles/13341880/my-abap-code-thinking-aloud-dj-adams.html)
 
-[my Python Code for qmacro Thinking Aloud issue #14](https://github.com/qmacro/thinking-aloud/issues/14)
+[MY Python Code for qmacro Thinking Aloud issue #14](https://github.com/qmacro/thinking-aloud/issues/14)
 
-[qmacro thinking-aloud on Github](https://github.com/qmacro/thinking-aloud)
+[qmacro thinking-aloud](https://github.com/qmacro/thinking-aloud)
 
 
 ### What is ABAP?
