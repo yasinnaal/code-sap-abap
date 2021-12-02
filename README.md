@@ -3,7 +3,7 @@
 
 My ABAP code contribution on SAP Community - Coffee Corner for thinking-aloud repository:
 
-[My ABAP Code for Thinking Aloud Project by DJ Adams (qmacro)](https://answers.sap.com/articles/13341880/my-abap-code-thinking-aloud-dj-adams.html)
+[My ABAP Code for Thinking Aloud Project by DJ Adams (qmacro)](https://groups.community.sap.com/t5/coffee-corner/abap-code-contribution-thinking-aloud-project-by-dj-adams-qmacro/m-p/1763#M478)
 
 [MY Python Code for qmacro Thinking Aloud issue #14](https://github.com/qmacro/thinking-aloud/issues/14)
 
